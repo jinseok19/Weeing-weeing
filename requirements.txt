@@ -5,4 +5,5 @@ numpy==1.24.3
 torch==2.5.1
 torchvision==0.20.1
 ultralytics==8.0.196
-
+plotly==5.18.0
+pandas==2.1.3
